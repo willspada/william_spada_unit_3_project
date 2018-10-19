@@ -39,13 +39,3 @@ Score | Expectations
 **3** | _Surpasses our wildest expectations!_
 
 > Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
-
-
----
-
-
-## Submission
-
-See [course_info](https://git.generalassemb.ly/datr-625/course_info#project-submission-procedure).
-
----
